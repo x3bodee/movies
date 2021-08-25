@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+
+body{
+    color: black;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.main{
+    height: 94.2vh;   
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.navbar{
+    margin-bottom: 0px!important;
+}
+
+.main > .container{
+    height: 50vh;
+    opacity: 0.8;
+
+}
